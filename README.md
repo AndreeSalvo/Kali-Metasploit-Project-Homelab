@@ -16,8 +16,7 @@ https://github.com/AndreeSalvo/Kali-Metasploit-Project-Homelab/blob/main/Kali%20
 https://github.com/AndreeSalvo/Kali-Metasploit-Project-Homelab/blob/main/Payload%20into%20the%20file%20explorer.png
 
 ### 3️⃣ Windows 10 Target VM|CMD prompt executed payload:
-https://github.com/AndreeSalvo/Kali-Metasploit-Project-Homelab/blob/main/Executed%20the%20payload.png?raw=true
-
+https://github.com/AndreeSalvo/Kali-Metasploit-Project-Homelab/blob/main/Executed%20the%20payload.png
 
 ---
 

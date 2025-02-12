@@ -10,7 +10,7 @@ For my project I demonstrated the use of **Metasploit Framework** to exploit a *
 ## 📸 Screenshots of My Metasploit Project
 
 ### 1️⃣ Kali Linux Attacking the Windows 10 VM|Successful Exploit Session: 
-https://github.com/AndreeSalvo/Kali-Metasploit-Project-Homelab/blob/main/Kali%20Linux%20Attacking%20the%20Windows%2010%20VM%20Successful%20Exploit%20Session.png?raw=true 
+https://github.com/AndreeSalvo/Kali-Metasploit-Project-Homelab/blob/main/Kali%20Linux%20Attacking%20the%20Windows%2010%20VM%20Successful%20Exploit%20Session.png
 
 ### 2️⃣ Windows 10 Target VM|File explorer w/ the payload:
 https://github.com/AndreeSalvo/Kali-Metasploit-Project-Homelab/blob/main/Payload%20into%20the%20file%20explorer.png?raw=true

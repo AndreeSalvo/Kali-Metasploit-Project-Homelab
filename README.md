@@ -7,6 +7,18 @@ For my project I demonstrated the use of **Metasploit Framework** to exploit a *
 
 ⚠️ **Disclaimer:** This project is for educational and ethical hacking purposes only. Unauthorized access to computer systems is illegal. Always obtain permission before testing.
 
+## 📸 Screenshots of My Metasploit Project
+
+### 1️⃣ Kali Linux Attacking the Windows 10 VM|Successful Exploit Session: 
+https://github.com/AndreeSalvo/Kali-Metasploit-Project-Homelab/blob/main/Kali%20Linux%20Attacking%20the%20Windows%2010%20VM%20Successful%20Exploit%20Session.png?raw=true 
+
+### 2️⃣ Windows 10 Target VM|File explorer w/ the payload:
+https://github.com/AndreeSalvo/Kali-Metasploit-Project-Homelab/blob/main/Payload%20into%20the%20file%20explorer.png?raw=true
+
+### 3️⃣ Windows 10 Target VM|CMD prompt executed payload:
+https://github.com/AndreeSalvo/Kali-Metasploit-Project-Homelab/blob/main/Executed%20the%20payload.png?raw=true
+
+
 ---
 
 ## 🔧 Installation & Setup

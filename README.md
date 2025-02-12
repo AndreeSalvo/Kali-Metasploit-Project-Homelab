@@ -83,7 +83,7 @@ To remove traces and exit:
 ⚖️ Legal & Ethical Considerations
 This project is intended for educational purposes only. Unauthorized penetration testing is illegal under the Computer Fraud and Abuse Act (CFAA). Only perform tests in authorized environments with explicit permission.
 
-I hacked a windows 10 vm on my personal Virtual Machine! so if you plan on doing this, please be responisble! 
+I did a penetration testing on my own Kali Linux & windows 10 VM on my personal computer! so if you plan on doing this, please be responisble! 
 
 Always hack responsibly! 🚀
 

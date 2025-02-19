@@ -1,7 +1,5 @@
 # Kali-Metasploit-Project-Homelab
 
-# Metasploit Penetration Testing Project
-
 ## 📌 Overview
 For my project I demonstrated the use of **Metasploit Framework** to exploit a **Windows 10 VM** using a **Kali Linux VM** as the attacker. It covers the full penetration testing process, from setting up the environment to executing post-exploitation techniques.
 
@@ -89,3 +87,7 @@ Always hack responsibly! 🚀
 
 📜 License
 This project is released under the MIT License. You are free to use, modify, and distribute it for educational purposes.
+
+# Author
+**Andree Salvo**
+Cybersecurity Student at SNHU
